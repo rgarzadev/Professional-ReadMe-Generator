@@ -46,7 +46,7 @@ This project is licensed under the wtfpl license.
   
 ## Contributing
 
-Contributions welcom. Please contact me with contributions or questions.
+Contributions welcome. Please contact me with contributions or questions.
 
 ## Tests
 
@@ -62,5 +62,5 @@ Please reach out with any questions at: ryangarza@live.com. You can open an issu
 
 ## Additional
 
-You can find additional info and/or instructions about this repo at: .
+You can find additional video walkthrough instructions at: https://drive.google.com/file/d/1uT-kWkqIxTC_kEcy6xLKWVYdWWyZt5Mk/view?usp=sharing
   
